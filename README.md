@@ -1,6 +1,6 @@
-# Curso-WEB - Light/Dark 
+# Curso-WEB - Card Animation
 
-Projeto de desenvolvimento Light/Dark 
+Projeto de desenvolvimento Card Animation
 
 Atividade curso Web
 
